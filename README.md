@@ -1,4 +1,6 @@
 # Stock-Volatility-Prediction-Based-on-Self-attention-Networks-with-Social-Information
+Zheng, J., Xia, A., Shao, L., Wan, T.R., & Qin, Z. (2019). Stock Volatility Prediction Based on Self-attention Networks with Social Information. 2019 IEEE Conference on Computational Intelligence for Financial Engineering & Economics (CIFEr), 1-7.
+
 
 文件介绍：
 utils.py 封装了一个记录日志的类，它既能将结果输出到控制台，也能写入txt中
